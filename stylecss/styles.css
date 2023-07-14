@@ -63,7 +63,7 @@ body {
     background: var(--blue-light, #212187);
     filter: drop-shadow(0 0 5px  #7000FF);
     transform: translate(-1px 1px);
-    transform: scale(1.01);
+    transform: scale(1.02);
 }
 
 .error {
